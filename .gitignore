@@ -1,4 +1,5 @@
 _ReSharper.TestLog4Net
 Log
-/MessageBoxAppender/bin
-/MessageBoxAppender/obj
+obj
+bin
+/TestResults
